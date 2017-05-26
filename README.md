@@ -2,5 +2,4 @@
 It's my first repository
 
 
-
-这是一个hello_woeld项目，你懂得！
+hello_woeld项目，你懂得！
